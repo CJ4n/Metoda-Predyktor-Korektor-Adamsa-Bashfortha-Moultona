@@ -1,5 +1,4 @@
 function Y = adams_bashforth(ddy,h,Y)
-% Autor: Jan Cichomski 313201
 % 
 % Funkcja adams_bashforth implementuje jeden krok metody Adamsa-Bashfortha
 % rzędu 4.
