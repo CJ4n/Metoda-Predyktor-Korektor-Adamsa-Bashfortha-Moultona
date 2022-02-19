@@ -1,5 +1,4 @@
 function y=ABM4_Main(a,b,c,d,x0,y0,dy0,xMax,N)
-% Autor: Jan Cichomski 313201
 %
 % Funkcja ABM4_Main przybliża wartości funkcji y w N równoodległych
 % punktach pomiędzy x0 a xMax, włącznie z x0 i xMax, gdzie y to dokładne 
