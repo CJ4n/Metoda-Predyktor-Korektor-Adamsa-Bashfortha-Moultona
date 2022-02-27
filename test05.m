@@ -1,4 +1,3 @@
-% Autor: Jan Cichomski 313201
 % Skrypt sprawdza co się dzieje z rozwiązaniem równania y''+3y'+3y+x^2=0,
 % gdy wyłączymy korektor w metodzie predyktor-korektor
 % Adamsa-Bashforha-Moultona.
