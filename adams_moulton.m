@@ -1,5 +1,5 @@
 function Y = adams_moulton(ddy,h,Y)
-% Autor: Jan Cichomski 313201
+% 
 % 
 % Funkcja adams_moulton implementuje jeden krok metody Adamsa-Moultona
 % rzędu 4.
