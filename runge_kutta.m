@@ -1,5 +1,4 @@
 function Y = runge_kutta(ddy,h,Y)
-% Autor: Jan Cichomski 313201
 % 
 % Funkcja runge_kutta implementuje jeden krok metody Rungegu-Kutty rzędu 
 % 4 ze wzorem kalsycznym.
