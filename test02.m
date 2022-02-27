@@ -1,4 +1,3 @@
-% Autor: Jan Cichomski 313201
 % Skrypt testuje funkcje adams_bashforth, jest do tego wykorzystana funkcja
 % runge_kutty która jest już przetestowana w test01, a dokładniej sprawdza,
 % czy błąd globalny funkcji jest O(h^4), poprzez obliczanie
