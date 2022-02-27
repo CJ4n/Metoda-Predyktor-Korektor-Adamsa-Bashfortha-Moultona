@@ -1,4 +1,3 @@
-% Autor: Jan Cichomski 313201
 % Skrypt testuje funkcje adams_moulton, jest do tego wykorzystane funkcje
 % runge_kutty oraz adams_bashforth obie funkcje są już przetestowane w
 % test01 oraz test02, a dokładniej sprawdza, czy błąd globalny funkcji
