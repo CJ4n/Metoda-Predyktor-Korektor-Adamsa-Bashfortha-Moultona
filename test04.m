@@ -1,4 +1,3 @@
-% Autor: Jan Cichomski 313201
 % Skrypt testuje stopień zbieżności funkcji ABM4_Main, poprzez obliczanie
 % iloczynów błędów globalnych dla N i 2N punktów podziału. Spodziewana
 % wartość iloczynu to 16.
