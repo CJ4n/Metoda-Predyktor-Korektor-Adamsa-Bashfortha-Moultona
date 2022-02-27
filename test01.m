@@ -1,4 +1,3 @@
-% Autor: Jan Cichomski 313201
 % Skrypt testuje funkcje runge_kutty, a dokładniej sprawdza, czy błąd
 % globalny funkcji jest O(h^4), poprzez obliczanie iloczynów błędów
 % globalnych dla N i 2N punktów podziału. Spodziewana wartość iloczynu: 16.
